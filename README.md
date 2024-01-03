@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-ShishGroup-13/ShishGroup-13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DivyaGupta_13/DivyaGupta_13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
